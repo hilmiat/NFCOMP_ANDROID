@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layout Demo</string>
+    <string-array name="data_list">
+        <item>Isi 1</item>
+        <item>Isi 2</item>
+        <item>Isi 3</item>
+        <item>Isi 4</item>
+    </string-array>
+</resources>
